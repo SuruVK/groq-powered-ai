@@ -1,3 +1,12 @@
+---
+title: Math Solver
+emoji: 🧮
+colorFrom: blue
+colorTo: green
+sdk: docker
+app_port: 8501
+pinned: false
+---
 # Text-to-Math Solver
 
 A conversational math-solving app built with Streamlit and LangChain. It uses a Groq language model to respond to questions and can call separate tools for calculations, step-by-step reasoning, and Wikipedia lookups.
